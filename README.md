@@ -100,11 +100,100 @@ WebGL starfield. Neon UI. Password‑gated admin dashboard.
 
 ---
 
-# 📊 **GITHUB NEON STATS**
+````md
+# 📊 GITHUB NEON STATS
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight&title_color=00eaff&text_color=c9d1d9&bg_color=000000" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000&border_color=30363d" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight&title_color=00eaff&text_color=c9d1d9&bg_color=000000&border_color=30363d" 
+    height="170"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ananthm1327-stack&theme=tokyonight&background=000000&border=30363d&ring=ff00ff&fire=00eaff&currStreakLabel=ffffff" 
+  />
+</p>
+
+---
+
+# 👁️ VISITOR COUNTER
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananthm1327-stack&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
+</p>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananthm1327-stack/ananthm1327-stack/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🧠 LEETCODE — PROBLEM SOLVING MATRIX
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ananth_Machiraju/">
+    <img src="https://leetcard.jacoblin.cool/Ananth_Machiraju?theme=dark&font=Share+Tech+Mono&ext=contest" />
+  </a>
+</p>
+
+---
+
+# 🤖 AI SYSTEM STATUS
+
+```diff
++ AI Prompt Engineering
++ Agentic Workflow Design
++ GenAI Product Strategy
++ AI Delivery Automation
++ LLM System Integration
+````
+
+---
+
+# 🚀 CURRENTLY BUILDING
+
+```yaml
+SYSTEM STATUS:
+  Prompt OS:
+    state: ACTIVE
+
+  Purple AI:
+    state: IN DEVELOPMENT
+
+  AI PM Portfolio:
+    state: EVOLVING
+
+  Agentic AI Workflows:
+    state: RESEARCHING
+```
+
+---
+
+# ⚡ CYBER DIVIDER
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=3"/>
+</p>
+
+---
+
+# 🔥 ULTRA NEON FOOTER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=footer&text=SYSTEM%20ONLINE&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+</p>
+```
 
 ---
 

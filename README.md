@@ -100,14 +100,6 @@ WebGL starfield. Neon UI. Password‑gated admin dashboard.
 
 ---
 
-# 📊 **GITHUB NEON STATS**
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight&title_color=00eaff&text_color=c9d1d9&bg_color=000000" height="170" />
-</p>
-
----
-
 # 🌐 **CONNECT — JACK IN**
 <p>
   <a href="mailto:ananth.machiraju@outlook.com"><img src="https://img.shields.io/badge/Email-ff0099?style=for-the-badge&logo=gmail&logoColor=white" /></a>

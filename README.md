@@ -13,7 +13,7 @@
 # ⚡ **WHOAMI**
 > *“A delivery engine wrapped in a human body.”*
 
-Project Manager & IT Delivery Lead with **10 years** of experience running multi‑workstream, regulated, high‑stakes programmes across **Financial Services, Logistics & Healthcare**.
+Project Manager & IT Delivery Lead with **10+ years** of experience running multi‑workstream, regulated, high‑stakes programmes across **Financial Services, Logistics & Healthcare**.
 
 I build systems that don’t break.  
 I run teams that don’t stall.  

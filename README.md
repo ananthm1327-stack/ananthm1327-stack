@@ -1,3 +1,12 @@
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=120&section=header&text=Ananth%20Machiraju&fontSize=40&fontColor=ffffff&fontAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Delivery+Lead+%7C+Project+Manager+%7C+GenAI+Integrator;Transforming+complex+enterprise+programmes+into+digital+success;Zero+release+failures+%7C+40%25%2B+incident+reduction+%7C+GenAI+pioneer" />
+</p>
+
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Ananth Machiraju</span></h1>
 <h3 align="center">IT Delivery Lead · Project Manager · GenAI Integrator</h3>
@@ -96,6 +105,11 @@ I lead delivery at **NEST Pensions UK**, driving regulated change, CAB‑managed
 
 ---
 
+<!-- PROJECTS BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=80&section=header&text=Featured%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=55" />
+</p>
+
 ## 🚀 Featured Projects  
 
 ### 🔥 **Gearhead Syndicate — Full‑Stack Motorcycle Community Platform**  
@@ -125,8 +139,8 @@ Cyberpunk Sudoku with deterministic levels + SHA‑256 auth.
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---

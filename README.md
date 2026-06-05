@@ -10,29 +10,9 @@
 
 ---
 
-# 🟣 **SYSTEM BOOT — NEON TELEMETRY**
-> *Full neon block (Top Position)*
+# ⚡ **WHOAMI**
+> *“A delivery engine wrapped in a human body.”*
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000&border_color=30363d" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight&title_color=00eaff&text_color=c9d1d9&bg_color=000000&border_color=30363d" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ananthm1327-stack&theme=tokyonight&background=000000&border=30363d&ring=ff00ff&fire=00eaff&currStreakLabel=ffffff" 
-  />
-</p>
-
----
-
-# ⚡ WHOAMI
 Project Manager & IT Delivery Lead with **10 years** of experience running multi‑workstream, regulated, high‑stakes programmes across **Financial Services, Logistics & Healthcare**.
 
 I build systems that don’t break.  
@@ -49,34 +29,33 @@ I deliver releases that don’t fail.
 
 ---
 
-# 🟦 MID‑SYSTEM METRICS (Compact Neon Block)
-> *Inserted after About section*
+# 🧠 **CORE SYSTEMS**
+### **🟪 Programme Delivery**
+- Multi‑workstream orchestration  
+- Regulated change pipelines  
+- CAB governance (0 failures in 3+ yrs)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000" 
-    height="150"
-  />
-</p>
+### **🟦 Engineering + AI**
+- GenAI workflow integration  
+- Node.js · Angular · SQL  
+- AWS · CI/CD · ETL
 
----
-
-# 🧠 CORE SYSTEMS
-### 🟪 Programme Delivery  
-### 🟦 Engineering + AI  
-### 🟩 Leadership  
-
----
-
-# 🏆 SIGNATURE ACHIEVEMENTS
-🟣 Zero critical release failures  
-🟣 40%+ incident reduction  
-🟣 49/75 NCQA certifications  
-🟣 ~30% GenAI documentation efficiency  
+### **🟩 Leadership**
+- Stakeholder management  
+- Vendor governance  
+- Budget & risk control  
 
 ---
 
-# 🛠 TECH STACK — NEON MODE
+# 🏆 **SIGNATURE ACHIEVEMENTS**
+🟣 **Zero** critical release failures (NEST Pensions UK)  
+🟣 **40%+** incident reduction (PostNord)  
+🟣 **49/75** NCQA certifications delivered  
+🟣 **~30%** documentation efficiency via GenAI  
+
+---
+
+# 🛠 **TECH STACK — NEON MODE**
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud-ff00ff?style=flat-square" />
   <img src="https://img.shields.io/badge/Node.js-Backend-00ffaa?style=flat-square" />
@@ -88,71 +67,58 @@ I deliver releases that don’t fail.
 
 ---
 
-# 🚀 PROJECTS — CYBER EDITION
+<!-- PROJECTS BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00eaff,100:ff00ff&height=80&section=header&text=NEON%20PROJECTS&fontSize=30&fontColor=ffffff&fontAlignY=55" />
+</p>
 
-### 🔥 Gearhead Syndicate  
-### 🤖 Prompt OS  
-### 🌌 Portfolio V2  
-### 🎮 Neon Sudoku  
+# 🚀 **PROJECTS — CYBER EDITION**
+
+### 🔥 **Gearhead Syndicate — Full‑Stack Motorcycle Platform**
+**Supabase · Realtime · GPS · Weather API**  
+A production‑grade rider community platform with live maps, DMs, and secure RLS.  
+🔗 https://tghs.vercel.app/
 
 ---
 
-# 🟣 FULL NEON MATRIX BLOCK (After Projects)
-> *Your entire block inserted here*
-
-# 📊 GITHUB NEON STATS
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000&border_color=30363d" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight&title_color=00eaff&text_color=c9d1d9&bg_color=000000&border_color=30363d" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ananthm1327-stack&theme=tokyonight&background=000000&border=30363d&ring=ff00ff&fire=00eaff&currStreakLabel=ffffff" 
-  />
-</p>
+### 🤖 **Prompt OS — Multi‑Model AI Prompt Engine**
+**Next.js · Stripe · AI Routing**  
+One idea → ChatGPT, Claude, Gemini, Cursor, Midjourney.  
+Unified streaming. Zod‑validated APIs. SaaS‑ready.
 
 ---
 
-# 👁️ VISITOR COUNTER
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananthm1327-stack&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
-</p>
+### 🌌 **Portfolio V2 — Futuristic Angular Portfolio**
+**Angular · Three.js · AI Chatbot · CMS**  
+WebGL starfield. Neon UI. Password‑gated admin dashboard.
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+### 🎮 **Neon Sudoku — Cyberpunk Browser Game**
+**Canvas · Web Audio · PRNG**  
+100 deterministic levels. Synthwave UI. SHA‑256 auth.
 
+---
+
+# 📊 **GITHUB NEON STATS**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ananthm1327-stack/ananthm1327-stack/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ananthm1327-stack&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ananthm1327-stack&layout=compact&theme=tokyonight&title_color=00eaff&text_color=c9d1d9&bg_color=000000" height="170" />
 </p>
 
 ---
 
-# 🧠 LEETCODE — PROBLEM SOLVING MATRIX
-
-<p align="center">
-  <a href="https://leetcode.com/u/Ananth_Machiraju/">
-    <img src="https://leetcard.jacoblin.cool/Ananth_Machiraju?theme=dark&font=Share+Tech+Mono&ext=contest" />
-  </a>
+# 🌐 **CONNECT — JACK IN**
+<p>
+  <a href="mailto:ananth.machiraju@outlook.com"><img src="https://img.shields.io/badge/Email-ff0099?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saiananthmachiraju"><img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ananthmachiraju.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-# 🤖 AI SYSTEM STATUS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=120&section=footer" />
+</p>
 
-```diff
-+ AI Prompt Engineering
-+ Agentic Workflow Design
-+ GenAI Product Strategy
-+ AI Delivery Automation
-+ LLM System Integration
+<h3 align="center">⚡ “Systems don’t fail when they’re built with intention.” ⚡</h3>

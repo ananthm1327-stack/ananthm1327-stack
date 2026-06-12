@@ -10,7 +10,7 @@
 
 ---
 
-# ⚡ **WHOAMI**
+# ⚡ **WHO AM I**
 > *“A delivery engine wrapped in a human body.”*
 
 Project Manager & IT Delivery Lead with **10+ years** of experience running multi‑workstream, regulated, high‑stakes programmes across **Financial Services, Logistics & Healthcare**.

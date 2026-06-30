@@ -140,10 +140,9 @@ WebGL starfield. Neon UI. Password‑gated admin dashboard.
 
 ```
 2024 → PRESENT    | GenAI Pioneer & AI Workflow Integration Specialist
-2021 → 2024       | IT Delivery Lead (NEST Pensions UK, PostNord)
-2018 → 2021       | Programme Manager (Financial Services)
-2015 → 2018       | Project Manager (Healthcare & Logistics)
-2014 → 2015       | Analyst Programmer (Foundation Role)
+2022 → PRESENT       | Project Manager & IT Delivery Lead (NEST Pensions UK, PostNord)
+2018 → 2021       | Sr Consultant & Team Manager (Logistics Services)
+2015 → 2018       | UI Developer & Data Analyst (US and INDIAN Healthcare )
 ```
 
 ---
